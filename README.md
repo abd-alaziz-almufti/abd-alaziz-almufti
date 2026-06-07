@@ -104,9 +104,3 @@ Laravel, React.js, PostgreSQL, Filament
 - Email: abedalmufti@gmail.com
 - LinkedIn: https://www.linkedin.com/in/abdalaziz-almufti-a6a9a53a9/
 - GitHub: https://github.com/abd-alaziz-almufti
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abd-alaziz-almufti&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abd-alaziz-almufti&layout=compact)
