@@ -29,6 +29,8 @@ I founded the product and lead the team. My responsibilities:
 - Backend development and the specialist web dashboard
 - Production deployment and operations
 
+Code: [Backend (Laravel)](https://github.com/HealthyLife-AI/Backend-Laravel) · [Frontend (Next.js)](https://github.com/HealthyLife-AI/Frontend-Nextjs)
+
 ## Tech Stack
 
 <p>
@@ -40,6 +42,7 @@ I founded the product and lead the team. My responsibilities:
   <img alt='React' src='https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB'/>
   <img alt='JavaScript' src='https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black'/>
   <img alt='Tailwind CSS' src='https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white'/>
+  <img alt='Spring Boot' src='https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white'/>
   <img alt='MySQL' src='https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white'/>
   <img alt='PostgreSQL' src='https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white'/>
   <img alt='Docker' src='https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white'/>
@@ -47,13 +50,14 @@ I founded the product and lead the team. My responsibilities:
   <img alt='Postman' src='https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white'/>
 </p>
 
-Also familiar with Java and Spring Boot.
-
 ## Selected Work
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [HealthyLife AI](https://frontend-nextjs-phi-ten.vercel.app/ar) | Arabic-first SaaS platform for nutrition specialists (private organization repositories) | Laravel, Next.js |
+| [HealthyLife AI](https://github.com/HealthyLife-AI) | Arabic-first B2B2C SaaS platform for nutrition specialists, live in production | Laravel, Next.js |
+| [Expense-Manager-Project](https://github.com/abd-alaziz-almufti/Expense-Manager-Project) | Smart expense manager that analyzes spending habits and generates personalized optimization plans with OpenAI | Laravel, Filament, OpenAI API |
+| [Expense-Management-SpringBoot](https://github.com/abd-alaziz-almufti/Expense-Management-SpringBoot) | Event-driven microservices system for expense management | Java, Spring Boot |
+| [DentalClinicManagementSystem](https://github.com/abd-alaziz-almufti/DentalClinicManagementSystem) | Multi-branch dental clinic backend: patients, appointments, visits, billing and inventory with role-based access | Laravel |
 | [uup-iug](https://github.com/abd-alaziz-almufti/uup-iug) | Information center and ticketing system for the Islamic University of Gaza website | PHP, Laravel |
 
 ## Get in Touch
