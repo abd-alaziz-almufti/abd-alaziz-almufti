@@ -1,35 +1,35 @@
 <h1 align='center'>Abdalaziz Almufti</h1>
 
 <p align='center'>
-  <b>Founder &amp; Tech Lead @ HealthyLife AI</b><br/>
-  Full Stack Developer · Laravel · Next.js · System Architecture
+  <b>Full Stack Developer · Laravel · Next.js</b><br/>
+  Founder &amp; Tech Lead of HealthyLife AI · Open to Backend / Full Stack roles
 </p>
 
 <p align='center'>
-  <a href='https://frontend-nextjs-phi-ten.vercel.app/ar'><img alt='HealthyLife AI' src='https://img.shields.io/badge/HealthyLife%20AI-Live%20Platform-2E7D32?style=for-the-badge'/></a>
   <a href='https://www.linkedin.com/in/abdalaziz-almufti-a6a9a53a9/'><img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
   <a href='mailto:abedalmufti@gmail.com'><img alt='Email' src='https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white'/></a>
+  <a href='https://my-portfolio-zeta-three-9gki3si54m.vercel.app/'><img alt='Portfolio' src='https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge'/></a>
 </p>
 
 ---
 
 ## About
 
-Full Stack Developer based in Gaza, Palestine, with a B.Sc. in Software Development from the Islamic University of Gaza (2026).
-I build and operate production software end to end: product vision, database design, backend, web dashboards and deployment.
+I build and ship production web software end to end: database design, APIs, dashboards and deployment.
+B.Sc. in Software Development from the Islamic University of Gaza (2026), based in Gaza, Palestine.
 
-## Currently Building: HealthyLife AI
+I care about backend work that holds up as it grows: layered architecture, multi-tenant data isolation, role-based access control, and database performance (eager loading, query tuning, caching).
 
-[**HealthyLife AI**](https://frontend-nextjs-phi-ten.vercel.app/ar) is a live, Arabic-first B2B2C SaaS platform for clinical nutrition specialists. It combines patient management, meal-plan design with a local Arabic food library, and AI-assisted follow-up that flags patients whose adherence is dropping.
+## Selected Work
 
-I founded the product and lead the team. My responsibilities:
-
-- Product vision and architecture
-- Database design with per-clinic data isolation
-- Backend development and the specialist web dashboard
-- Production deployment and operations
-
-Code: [Backend (Laravel)](https://github.com/HealthyLife-AI/Backend-Laravel) · [Frontend (Next.js)](https://github.com/HealthyLife-AI/Frontend-Nextjs)
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [HealthyLife AI](https://github.com/HealthyLife-AI) · [live](https://frontend-nextjs-phi-ten.vercel.app/ar) | Arabic-first SaaS for clinical nutrition specialists, in production. I founded it, designed the architecture and database, built the backend and dashboard, and lead the team | Laravel, Next.js, MySQL |
+| [Expense-Manager-Project](https://github.com/abd-alaziz-almufti/Expense-Manager-Project) | Smart expense manager that analyzes spending habits and generates personalized plans with OpenAI | Laravel, Filament, OpenAI API |
+| [Expense-Management-SpringBoot](https://github.com/abd-alaziz-almufti/Expense-Management-SpringBoot) | Event-driven microservices system for expense management | Java, Spring Boot |
+| [DentalClinicManagementSystem](https://github.com/abd-alaziz-almufti/DentalClinicManagementSystem) | Multi-branch clinic backend: patients, appointments, visits, billing and inventory with role-based access | Laravel |
+| [real-estate-system](https://github.com/abd-alaziz-almufti/real-estate-system) | Multi-tenant real estate SaaS; co-built the Filament admin dashboard with RBAC and tenant isolation | Laravel, Filament |
+| [uup-iug](https://github.com/abd-alaziz-almufti/uup-iug) | Unified University Platform for the Islamic University of Gaza; graduation project, defended with distinction | PHP, Laravel |
 
 ## Tech Stack
 
@@ -50,20 +50,9 @@ Code: [Backend (Laravel)](https://github.com/HealthyLife-AI/Backend-Laravel) · 
   <img alt='Postman' src='https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white'/>
 </p>
 
-## Selected Work
-
-| Project | Description | Stack |
-| --- | --- | --- |
-| [HealthyLife AI](https://github.com/HealthyLife-AI) | Arabic-first B2B2C SaaS platform for nutrition specialists, live in production | Laravel, Next.js |
-| [Expense-Manager-Project](https://github.com/abd-alaziz-almufti/Expense-Manager-Project) | Smart expense manager that analyzes spending habits and generates personalized optimization plans with OpenAI | Laravel, Filament, OpenAI API |
-| [Expense-Management-SpringBoot](https://github.com/abd-alaziz-almufti/Expense-Management-SpringBoot) | Event-driven microservices system for expense management | Java, Spring Boot |
-| [DentalClinicManagementSystem](https://github.com/abd-alaziz-almufti/DentalClinicManagementSystem) | Multi-branch dental clinic backend: patients, appointments, visits, billing and inventory with role-based access | Laravel |
-| [uup-iug](https://github.com/abd-alaziz-almufti/uup-iug) | Information center and ticketing system for the Islamic University of Gaza website | PHP, Laravel |
-
 ## Get in Touch
 
-Open to collaboration and freelance work.
+Open to full-time or remote roles as a Backend or Full Stack Developer, and to freelance work.
 
 - Email: [abedalmufti@gmail.com](mailto:abedalmufti@gmail.com)
 - LinkedIn: [abdalaziz-almufti](https://www.linkedin.com/in/abdalaziz-almufti-a6a9a53a9/)
-- Portfolio: [my-portfolio](https://my-portfolio-zeta-three-9gki3si54m.vercel.app/)
